@@ -1,0 +1,67 @@
+{
+    "101": {
+        "name": "Ali",
+        "subjects": {
+            "computer science": 90.0,
+            "artificial intelligence": 87.0,
+            "python": 100.0
+        },
+        "total": 277.0,
+        "percentage": 92.33,
+        "grade": "A+"
+    },
+    "102": {
+        "name": "sara",
+        "subjects": {
+            "Math": 70.0,
+            "English": 80.0
+        },
+        "total": 150.0,
+        "percentage": 75.0,
+        "grade": "B"
+    },
+    "103": {
+        "name": "zain",
+        "subjects": {
+            "Math": 75.0,
+            "English": 90.0
+        },
+        "total": 165.0,
+        "percentage": 82.5,
+        "grade": "A"
+    },
+    "104": {
+        "name": "bilal",
+        "subjects": {
+            "Math": 20.0,
+            "English": 70.0
+        },
+        "total": 90.0,
+        "percentage": 45.0,
+        "grade": "F"
+    },
+    "105": {
+        "name": "hina",
+        "subjects": {
+            "Math": 80.0,
+            "English": 58.0,
+            "Urdu": 65.0,
+            "science": 32.0
+        },
+        "total": 235.0,
+        "percentage": 58.75,
+        "grade": "D"
+    },
+    "106": {
+        "name": "maria",
+        "subjects": {
+            "Math": 66.0,
+            "English": 90.0,
+            "Urdu": 89.0,
+            "science": 89.0
+        },
+        "total": 334.0,
+        "percentage": 83.5,
+        "grade": "A"
+    }
+}
